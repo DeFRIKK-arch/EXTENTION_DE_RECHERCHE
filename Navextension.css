@@ -1,0 +1,36 @@
+body
+{
+    background-color: rgb(243, 172, 85);
+}
+
+#google_rech
+{
+    background-color: aqua;
+    padding: 10px;
+    width: 80%;
+    border-radius: 10px;
+}
+
+#opera_rech
+{
+    background-color: aqua;
+    padding: 10px;
+    width: 80%;
+    border-radius: 10px;
+}
+
+#wikipedia_rech
+{
+    background-color: aqua;
+    padding: 10px;
+    width: 80%;
+    border-radius: 10px;
+}
+
+#recherche
+{
+    background-color: rgb(191, 230, 230);
+    border-radius: 5px;
+    padding: 10px;
+    width: 80%;
+}
